@@ -1,0 +1,11 @@
+C:\Users\Crimson\source\repos\16 Shesnaesti chas\UMLClassPrimer\UMLClassPrimer\obj\Debug\netcoreapp3.0\UMLClassPrimer.csprojAssemblyReference.cache
+C:\Users\Crimson\source\repos\16 Shesnaesti chas\UMLClassPrimer\UMLClassPrimer\obj\Debug\netcoreapp3.0\UMLClassPrimer.AssemblyInfoInputs.cache
+C:\Users\Crimson\source\repos\16 Shesnaesti chas\UMLClassPrimer\UMLClassPrimer\obj\Debug\netcoreapp3.0\UMLClassPrimer.AssemblyInfo.cs
+C:\Users\Crimson\source\repos\16 Shesnaesti chas\UMLClassPrimer\UMLClassPrimer\bin\Debug\netcoreapp3.0\UMLClassPrimer.exe
+C:\Users\Crimson\source\repos\16 Shesnaesti chas\UMLClassPrimer\UMLClassPrimer\bin\Debug\netcoreapp3.0\UMLClassPrimer.deps.json
+C:\Users\Crimson\source\repos\16 Shesnaesti chas\UMLClassPrimer\UMLClassPrimer\bin\Debug\netcoreapp3.0\UMLClassPrimer.runtimeconfig.json
+C:\Users\Crimson\source\repos\16 Shesnaesti chas\UMLClassPrimer\UMLClassPrimer\bin\Debug\netcoreapp3.0\UMLClassPrimer.runtimeconfig.dev.json
+C:\Users\Crimson\source\repos\16 Shesnaesti chas\UMLClassPrimer\UMLClassPrimer\bin\Debug\netcoreapp3.0\UMLClassPrimer.dll
+C:\Users\Crimson\source\repos\16 Shesnaesti chas\UMLClassPrimer\UMLClassPrimer\bin\Debug\netcoreapp3.0\UMLClassPrimer.pdb
+C:\Users\Crimson\source\repos\16 Shesnaesti chas\UMLClassPrimer\UMLClassPrimer\obj\Debug\netcoreapp3.0\UMLClassPrimer.dll
+C:\Users\Crimson\source\repos\16 Shesnaesti chas\UMLClassPrimer\UMLClassPrimer\obj\Debug\netcoreapp3.0\UMLClassPrimer.pdb

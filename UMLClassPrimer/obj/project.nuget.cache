@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lp31zPSggGhMudJh8ezJuPK8FD47HhkeAKbGDQVn5ae0c/0qRTtC0lCPYX5pCd8JGlQ6u29hrFEA/RX+vIO4kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ancev\\Desktop\\Предавања\\UMLClassPrimer\\UMLClassPrimer\\UMLClassPrimer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ancev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\ancev\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\ancev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\ancev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
